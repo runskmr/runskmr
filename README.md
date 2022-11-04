@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="100" /></a>
-
-<p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</p>
