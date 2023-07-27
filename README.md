@@ -23,13 +23,7 @@
 </div>
 
 
-## Contact Me
-
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
-
 ## Connect with Me
 
-Feel free to connect with me on LinkedIn or reach out via email. I'm always open to collaboration and discussions about interesting projects or opportunities.
+Feel free to connect with me. I'm always open to collaboration and discussions about interesting projects or opportunities.
 
