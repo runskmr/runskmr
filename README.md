@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Arun Sivakumar</h1>
+<h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 <p align="center">
 </p>
